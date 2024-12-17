@@ -1,5 +1,5 @@
 # RL_Learning
-本项目基于Richard S. Sutton 以及Andrew G. Barto所著的《Reinforcement Learning-An Introduction Second Edition》，对该书的示例项目进行复现，以进行RL的相关学习
+本项目基于Richard S. Sutton 以及Andrew G. Barto所著的《Reinforcement Learning-An Introduction Second Edition》，对该书的示例项目进行复现（见Example_Project），以进行RL的相关学习
 # Chapter 1 导论
 ## 1.1 强化学习
 动作往往影响的不仅仅是即时收益，也会影响下一个情境，从而影响随后的收益。这两个特征——**试错**和**延迟收益**——是强化学习两个最重要最显著的特征。  
